@@ -32,3 +32,6 @@ Knowledge of AI tooling is critical for future proofing the careers of React dev
 ## Next + AI
 
 - [04 - AI Next Folder](https://github.com/MoonHighway/ai-react/tree/main/04-ai-next)
+- [Vercel AI Core](https://sdk.vercel.ai/docs/ai-sdk-core): Text generation, structured objects, tools with LLMs
+- [Vercel AI SDK UI](https://sdk.vercel.ai/docs/ai-sdk-ui): Hooks for building chat interfaces
+- [Vercel AI RSC](https://sdk.vercel.ai/docs/ai-sdk-rsc): Specific tools for React Server Component Architecture
