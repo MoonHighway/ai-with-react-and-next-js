@@ -4,8 +4,9 @@ Knowledge of AI tooling is critical for future proofing the careers of React dev
 
 ## Topics
 
-- Creating a React Project with Next.js
+- Understanding AI in Node Projects
 - Choosing a LLM
+- Creating a React Project with Next.js
 - Customizing Streaming Interfaces
 - Building Routes
 - Creating and Generating Components
@@ -14,3 +15,10 @@ Knowledge of AI tooling is critical for future proofing the careers of React dev
 ## Slides
 
 - [Slide Deck](https://www.canva.com/design/DAGH9QpxXh0/DgEc63sNlUWp2wBmMLxqYA/view?utm_content=DAGH9QpxXh0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+## AI In Node Projects
+
+- [01 - OpenAI Node Folder]()
+- [Generating an API Key](https://platform.openai.com/api-keys)
+- [Available Models](https://platform.openai.com/docs/models/overview)
+- [Example Prompts](https://platform.openai.com/docs/examples)
