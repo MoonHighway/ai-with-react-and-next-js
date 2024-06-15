@@ -28,3 +28,7 @@ Knowledge of AI tooling is critical for future proofing the careers of React dev
 - [03 - Assistants Folder](https://github.com/MoonHighway/ai-react/tree/main/03-assistants)
 - [Assistants API Docs](https://platform.openai.com/docs/assistants/overview)
 - [Assistants UI](https://platform.openai.com/assistants)
+
+## Next + AI
+
+- [04 - AI Next Folder](https://github.com/MoonHighway/ai-react/tree/main/04-ai-next)
