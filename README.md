@@ -35,3 +35,4 @@ Knowledge of AI tooling is critical for future proofing the careers of React dev
 - [Vercel AI Core](https://sdk.vercel.ai/docs/ai-sdk-core): Text generation, structured objects, tools with LLMs
 - [Vercel AI SDK UI](https://sdk.vercel.ai/docs/ai-sdk-ui): Hooks for building chat interfaces
 - [Vercel AI RSC](https://sdk.vercel.ai/docs/ai-sdk-rsc): Specific tools for React Server Component Architecture
+- [AI SDK Providers](https://sdk.vercel.ai/providers/ai-sdk-providers)
