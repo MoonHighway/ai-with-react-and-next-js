@@ -2,6 +2,15 @@
 
 Knowledge of AI tooling is critical for future proofing the careers of React developers, and the Vercel suite of AI tools is an approachable on-ramp. In this course, we’ll take a closer look at the Vercel AI SDK and how this can help React developers build streaming interfaces with JavaScript and Next.js.
 
+## Workshop Installation Instructions
+
+Before you attend, it would be good to make sure you have the following:
+
+1. This repo cloned or downloaded.
+2. A code editor of some sort.
+3. [Node.js version 20+](https://nodejs.org/en)
+4. Optional: An [OpenAI API Key](https://openai.com/index/openai-api/). I'll share one that you can use during the workshop if you'd prefer.
+
 ## Instructor Info
 
 - Eve Porcello, eve@moonhighway.com, [@eveporcello](https://x.com/eveporcello)
